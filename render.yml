@@ -25,7 +25,9 @@ services:
         value: "deepseek-chat"
       - key: LANGSMITH_API_KEY
         sync: false
-      - key: OPENAI_API_KEY
+      - key: DEEPSEEK_BASE_URL
+        value: "https://api.deepseek.api"
+      - key: DEEPSEEK_API_KEY
         sync: false
       - key: LANGSMITH_TRACING
         value: "true"
