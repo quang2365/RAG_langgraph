@@ -32,7 +32,7 @@ A production-oriented chat API built with **FastAPI**, **LangGraph**, and the **
 
 - Python 3.12
 - [uv](https://docs.astral.sh/uv/)
-- A DeepSeek API key
+- A AI Platform API key
 
 ### 1. Configure environment variables
 
